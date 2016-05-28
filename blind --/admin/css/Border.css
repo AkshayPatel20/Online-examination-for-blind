@@ -1,0 +1,33 @@
+#login{
+	margin-top:100px;
+	
+	
+	border: 5px solid #ccc;
+	-moz-box-shadow: 3px 3px 9px 3px #cecece;
+    -webkit-box-shadow: 3px 3px 9px 3px #cecece;
+    box-shadow: 8px 8px 12px 8px #cecece;
+	
+	-webkit-transform:rotate(2deg);
+	-moz-transform:rotate(2deg);
+	-ms-transform:rotate(2deg);
+	-o-transform:rotate(2deg);
+	transform:rotate(0.4deg);
+	
+	font-family:  "comic sans ms";
+	}
+#login1{
+	border: 3px solid #ccc;
+	-moz-box-shadow: 3px 3px 9px 3px #cecece;
+    -webkit-box-shadow: 3px 3px 9px 3px #cecece;
+    box-shadow: 6px 6px 9px 6px #cecece;
+	
+	-webkit-transform:rotate(1deg);
+	-moz-transform:rotate(1deg);
+	-ms-transform:rotate(1deg);
+	-o-transform:rotate(1deg);
+	transform:rotate(-0.5deg);
+	}
+	
+	
+		
+

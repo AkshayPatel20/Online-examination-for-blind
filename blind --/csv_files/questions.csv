@@ -1,0 +1,10 @@
+What is default storage class of variables in C language?,extern,local,auto,global,auto
+Which of the following search algorithm requires a sorted array?,Linear search,Hash search,Binary search,All of these,Binary search
+In which linked list last node address is null?,Doubly linked list,Circular list,Singly linked list,None of the above,Singly linked list
+Which of the following data structure is linear type?,Strings,Queue,Lists,All of the above,All of the above
+Recursive functions are executed in a?,First In First Out Order,Load Balancing,Parallel Fashion,Last In First Out Order,Last In First Out Order
+Which one of the following is not a linear data structure?,Array,Binary Tree,Queue,Stack,Binary Tree
+What is function?,Function is a block of statements that perform some specific task.,Function is the fundamental modular unit. A function is usually designed to perform a specific task.,Function is a block of code that performs a specific task. It has a name and it is reusable,All the above,All the above
+What is the work of break keyword?,Halt execution of program,Restart execution of program,Exit from loop or switch statement,None of the avobe,Exit from loop or switch statement
+What is constant?,Constants have fixed values that do not change during the execution of a program,Constants have fixed values that change during the execution of a program,Constants have unknown values that may be change during the execution of a program,None of the above,Constants have fixed values that do not change during the execution of a program
+What is C Tokens?,The smallest individual units of c program,The basic element recognized by the compiler,The largest individual units of program,A & B Both,A & B Both
